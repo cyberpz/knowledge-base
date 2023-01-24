@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "54bcbab3302dc8d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae4478893a2e2a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "884451dcdee38482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalping/0 - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b92a52b866df60c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalping/0 - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33fcfe0f791a47e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalping/0 - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c507d6537a82a4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalping/0 - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f350cea7b88a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalping/0 - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "818719deaaaa3898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/flipperzero/INDEX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3fc2ab1dca60e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubGhz - Car access systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b2d9121264ddc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalping/Strategie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0373b02ae700946d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca1b8ce2e143e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04bc7de8bea92163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f13b9500a4b0968f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "861c1e38010fa183",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a4b6b6e5c29d1ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "084043dbb76e819b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd949a8430716540",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SubGhz - Car access systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf0c724795ce75b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SubGhz - Car access systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbf894fcf0bb91c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "526227f96441ad30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SubGhz - Car access systems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3fc2ab1dca60e8b",
+  "lastOpenFiles": [
+    "tech/flipperzero/INDEX.md",
+    "scalping/0 - Index.md",
+    "scalping/4G - Quiz.md",
+    "logo.svg",
+    "scalping/Strategie.md",
+    "scalping/1 - Introduzione al Trading.md",
+    "Esercizi pratici.md",
+    "scalping/2 - Candele.md",
+    "scalping/5 - Supporti e Resistenze.md",
+    "scalping/4 - Medie Mobili.md"
+  ]
+}

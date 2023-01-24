@@ -69,4 +69,4 @@ Dipende se l'apertura è minore o maggiore rispetto alla chiusura:
 > - minimo
 > - durata in minuti/ore/giorni
 
-Vediamo come cazz di vedono le candele in un [[Grafico]]
+Vediamo come cazz di vedono le candele in un [[3 - Grafico]]
