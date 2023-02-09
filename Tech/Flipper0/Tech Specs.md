@@ -20,25 +20,25 @@
 - Chip: TI CC1101  
 - TX Power: 0 dBm max  
 - **Frequency bands (depends on your region):**  
-    - 315 MHz  
-    - 433 MHz  
-    - 868 MHz  
-    - 915 MHz
+	1. 315 M`Hz 
+	2. 433 MHz 
+	3. 868 MHz 
+	4. 915 MHz`
   
 ## NFC
 - Frequency: 13.56 MHz
 - Supported cards:
-    - ISO-14443A/B
-    - One well-known brand
-    - FeliCa™
-    - NFC Forum protocols
+	1. ISO-14443A/B
+	2. One well-known brand
+	3. FeliCa™
+	4. NFC Forum protocols
 
 ## RFID
 - Frequency: 125 kHz
 - Modulation: AM, PSK, FSK
 - Supported cards:
-    - EM400x, EM410x, EM420x
-    - HIDProx, Indala  
+	- EM400x, EM410x, EM420x
+	- HIDProx, Indala  
 
 ## GPIO
 - 3.3 CMOS Level
@@ -70,8 +70,8 @@
 ## iButton 1-Wire
 - Operate modes: Reader/Writer/Emulator
 - Supported protocols:
-    - Dallas DS1990A
-    - CYFRAL
+	- Dallas DS1990A
+	- CYFRAL
 
 ## USB
 - 1x USB 2.0 port, type C
