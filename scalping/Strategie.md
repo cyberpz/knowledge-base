@@ -1,7 +1,7 @@
 
 Lista esaustiva delle strategie di bull e altre strategie baseate su altri metodi.
 
-## Method: ScalpingTheBull
+## Metodo ScalpingTheBull
 
 - BUD
 - Terzo Tocco
@@ -10,4 +10,4 @@ Lista esaustiva delle strategie di bull e altre strategie baseate su altri metod
 - Bomba
 - Anti-incrocio
 - Daily
-- 
+- [more]...

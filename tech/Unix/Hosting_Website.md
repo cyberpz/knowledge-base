@@ -3,7 +3,7 @@
 git clone <repo>
 
 ## VirtualHost
-# write Virtual host in site-available
+# write Virtual host in site-available (see Install VirtualHost)
 a2ensite <file.conf>
 systemctl reload apache2
 

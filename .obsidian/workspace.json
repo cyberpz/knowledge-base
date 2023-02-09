@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "884451dcdee38482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scalping/0 - Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b92a52b866df60c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scalping/0 - Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33fcfe0f791a47e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scalping/0 - Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c507d6537a82a4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scalping/0 - Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68f350cea7b88a68",
             "type": "leaf",
             "state": {
@@ -68,24 +20,12 @@
             }
           },
           {
-            "id": "818719deaaaa3898",
+            "id": "17e165a1aa1052cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/flipperzero/INDEX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3fc2ab1dca60e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SubGhz - Car access systems.md",
+                "file": "tech/Unix/Hosting_Website.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abc3e27b2419c022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/Unix/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SubGhz - Car access systems.md",
+                "file": "tech/Unix/Hosting_Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SubGhz - Car access systems.md",
+                "file": "tech/Unix/Hosting_Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SubGhz - Car access systems.md"
+                "file": "tech/Unix/Hosting_Website.md"
               }
             }
           }
@@ -218,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3fc2ab1dca60e8b",
+  "active": "17e165a1aa1052cd",
   "lastOpenFiles": [
-    "tech/flipperzero/INDEX.md",
+    "tech/Unix/Install VirtualHosts.md",
+    "tech/Unix/Server_Setup.md",
+    "tech/Unix/Install PHP.md",
+    "tech/Unix/Install MariaDB.md",
+    "tech/Unix/Run anything as daemon.md",
     "scalping/0 - Index.md",
-    "scalping/4G - Quiz.md",
-    "logo.svg",
+    "tech/Unix/Docker.md",
     "scalping/Strategie.md",
-    "scalping/1 - Introduzione al Trading.md",
-    "Esercizi pratici.md",
-    "scalping/2 - Candele.md",
-    "scalping/5 - Supporti e Resistenze.md",
-    "scalping/4 - Medie Mobili.md"
+    "tech/Flipper0/INDEX.md",
+    "tech/Flipper0/SubGhz - Car access systems.md"
   ]
 }
