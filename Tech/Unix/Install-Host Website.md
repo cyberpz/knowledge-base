@@ -2,19 +2,13 @@
 ## Clone repo
 git clone <repo>
 
-## VirtualHost
-# write Virtual host in site-available (see Install VirtualHost)
+## create VirtualHost
+# write in site-available (see Tech/Unix/Install VirtualHost)
 a2ensite <file.conf>
 systemctl reload apache2
 
 # SSL Certificates
-## if certbot not installed
-apt install snapd
-snap install core
-snap install --classic certbot
-ln -s /snap/bin/certbot /usr/bin/certbot
-certbot --apache -d peppuz.it # per ogni dominio/subdomain
-
+## if certbot not installed (see Tech/Unix/Install Certbot)
 
 # PHPmyadmin
 echo "deb http://ftp.debian.org/debian unstable main contrib" > /etc/apt/sources.list.d/debian.list

@@ -14,33 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "17e165a1aa1052cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5b2d9121264ddc31",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "abc3e27b2419c022",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2a4b6b6e5c29d1ed",
@@ -165,15 +140,15 @@
   },
   "active": "04bc7de8bea92163",
   "lastOpenFiles": [
+    "Tech/Unix/Run anything as daemon.md",
+    "Tech/Unix/Install-Host Website.md",
+    "Tech/Unix/Install VirtualHosts.md",
+    "Tech/Unix/Install Cerbot.md",
+    "Tech/Unix/Install Apache2.md",
+    "tech/Unix/Hosting_Website.md",
     "tech/Unix/Install VirtualHosts.md",
     "tech/Unix/Server_Setup.md",
     "tech/Unix/Install PHP.md",
-    "tech/Unix/Install MariaDB.md",
-    "tech/Unix/Run anything as daemon.md",
-    "scalping/0 - Index.md",
-    "tech/Unix/Docker.md",
-    "scalping/Strategie.md",
-    "tech/Flipper0/INDEX.md",
-    "tech/Flipper0/SubGhz - Car access systems.md"
+    "tech/Unix/Install MariaDB.md"
   ]
 }
