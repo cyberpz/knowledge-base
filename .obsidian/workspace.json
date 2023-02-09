@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5767c35e093d95",
+        "id": "da2bf212ad6ae5f8",
         "type": "tabs",
         "children": [
           {
-            "id": "02f029403ef52e41",
+            "id": "a36aed131b20c62f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02f029403ef52e41",
+  "active": "a36aed131b20c62f",
   "lastOpenFiles": [
     "Tech/Flipper0/Tech Specs.md",
-    "Tech/Flipper0/INDEX.md",
     "Tech/Flipper0/What is Flipper Zero.md",
     "Tech/Flipper0/BadUSB - scripts.md",
+    "Tech/Flipper0/INDEX.md",
     "Esercizi pratici.md",
     "logo.svg",
     "perlite.svg",
