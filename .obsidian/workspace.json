@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Flipper0/0-INDEX.md",
+                "file": "Tech/Flipper0/Infrared.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2a4b6b6e5c29d1ed",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Flipper0/0-INDEX.md",
+                "file": "Tech/Flipper0/Infrared.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Flipper0/0-INDEX.md",
+                "file": "Tech/Flipper0/Infrared.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Flipper0/0-INDEX.md"
+                "file": "Tech/Flipper0/Infrared.md"
               }
             }
           }
@@ -159,13 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "644863a6b327df7a",
+  "active": "04bc7de8bea92163",
   "lastOpenFiles": [
     "Tech/Flipper0/BadUSB.md",
     "Tech/Flipper0/Infrared.md",
+    "Tech/Flipper0/0-INDEX.md",
     "Tech/Flipper0/Tech Specs.md",
     "Tech/Flipper0/What is Flipper Zero.md",
-    "Tech/Flipper0/0-INDEX.md",
     "Tech/Flipper0/INDEX.md",
     "Esercizi pratici.md",
     "logo.svg",
