@@ -1,7 +1,7 @@
 #DEBIAN 
 To run it as a full daemon from a shell, you'll need to use setsid and redirect its output. You can redirect the output to a logfile, or to /dev/null to discard it. Assuming your script is called myscript.sh, use the following command:
 
-```
+```sh
 setsid myscript.sh >/dev/null 2>&1 < /dev/null &
 ```
 

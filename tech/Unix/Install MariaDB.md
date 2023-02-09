@@ -1,19 +1,23 @@
 # Install a classic database for domestic use
+```sh
 apt update
 apt install mariadb-server
 mysql_secure_installation
+```
 
-## (Optional) Adjusting User Authentication and Privileges
-mysql
+### Define User and Privileges
+```mysql
+GRANT ALL ON *.* TO '<user>'@'localhost' IDENTIFIED BY '<password>' WITH GRANT OPTION;
 
-MariaDB [(none)]> GRANT ALL ON *.* TO 'admin'@'localhost' IDENTIFIED BY 'password' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
 
-MariaDB [(none)]> FLUSH PRIVILEGES;
-
-MariaDB [(none)]> exit ;
+exit ;
+```
 
 # IMPORT existing dump 
+```sh
 mysql -u admin -p
 CREATE DATABASE new_database;
 mysql -u admin -p new_database < data-dump.sql
+```
 

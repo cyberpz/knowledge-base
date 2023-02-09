@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae4478893a2e2a4c",
+        "id": "8e5767c35e093d95",
         "type": "tabs",
         "children": [
           {
-            "id": "68f350cea7b88a68",
+            "id": "02f029403ef52e41",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04bc7de8bea92163",
+  "active": "02f029403ef52e41",
   "lastOpenFiles": [
-    "Tech/Unix/Run anything as daemon.md",
-    "Tech/Unix/Install-Host Website.md",
-    "Tech/Unix/Install VirtualHosts.md",
-    "Tech/Unix/Install Cerbot.md",
-    "Tech/Unix/Install Apache2.md",
-    "tech/Unix/Hosting_Website.md",
-    "tech/Unix/Install VirtualHosts.md",
-    "tech/Unix/Server_Setup.md",
-    "tech/Unix/Install PHP.md",
-    "tech/Unix/Install MariaDB.md"
+    "Tech/Flipper0/Tech Specs.md",
+    "Tech/Flipper0/INDEX.md",
+    "Tech/Flipper0/What is Flipper Zero.md",
+    "Tech/Flipper0/BadUSB - scripts.md",
+    "Esercizi pratici.md",
+    "logo.svg",
+    "perlite.svg",
+    "front.webp",
+    "anim.gif",
+    "().md"
   ]
 }

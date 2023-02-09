@@ -1,14 +1,18 @@
 
 ## Clone repo
+```sh
 git clone <repo>
+```
 
 ## create VirtualHost
-# write in site-available (see Tech/Unix/Install VirtualHost)
+write in site-available (see Tech/Unix/Install VirtualHost)
+then enable the VirtualHost:
+```sh
 a2ensite <file.conf>
 systemctl reload apache2
-
+```
 # SSL Certificates
-## if certbot not installed (see Tech/Unix/Install Certbot)
+if certbot not installed (see Tech/Unix/Install Certbot)
 
 # PHPmyadmin
 echo "deb http://ftp.debian.org/debian unstable main contrib" > /etc/apt/sources.list.d/debian.list

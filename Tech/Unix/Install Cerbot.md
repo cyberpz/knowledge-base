@@ -11,7 +11,7 @@ reboot;
 ```
 #### ready to clone repo and install Virtual host install SSL certs 
 
-### Via APT
+## Via APT
 ```sh
 apt install certbot python-certbot-apache
 ```
