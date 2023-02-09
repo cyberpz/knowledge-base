@@ -20,7 +20,7 @@
 - Chip: TI CC1101  
 - TX Power: 0 dBm max  
 - **Frequency bands (depends on your region):**  
-	1. 315 M`Hz 
+	1. 315 MHz
 	2. 433 MHz 
 	3. 868 MHz 
 	4. 915 MHz`

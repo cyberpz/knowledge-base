@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "644863a6b327df7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Flipper0/0-INDEX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Flipper0/Tech Specs.md",
+                "file": "Tech/Flipper0/0-INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Flipper0/Tech Specs.md",
+                "file": "Tech/Flipper0/0-INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Flipper0/Tech Specs.md"
+                "file": "Tech/Flipper0/0-INDEX.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a36aed131b20c62f",
+  "active": "644863a6b327df7a",
   "lastOpenFiles": [
+    "Tech/Flipper0/BadUSB.md",
+    "Tech/Flipper0/Infrared.md",
     "Tech/Flipper0/Tech Specs.md",
     "Tech/Flipper0/What is Flipper Zero.md",
-    "Tech/Flipper0/BadUSB - scripts.md",
+    "Tech/Flipper0/0-INDEX.md",
     "Tech/Flipper0/INDEX.md",
     "Esercizi pratici.md",
     "logo.svg",
     "perlite.svg",
-    "front.webp",
-    "anim.gif",
-    "().md"
+    "front.webp"
   ]
 }
