@@ -11,48 +11,32 @@
             "id": "68f350cea7b88a68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scalping/0 - Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "17e165a1aa1052cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/Unix/Hosting_Website.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "5b2d9121264ddc31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scalping/Strategie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "abc3e27b2419c022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/Unix/Docker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Unix/Hosting_Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/Unix/Hosting_Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tech/Unix/Hosting_Website.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e165a1aa1052cd",
+  "active": "04bc7de8bea92163",
   "lastOpenFiles": [
     "tech/Unix/Install VirtualHosts.md",
     "tech/Unix/Server_Setup.md",
