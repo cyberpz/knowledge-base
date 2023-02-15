@@ -1,30 +1,11 @@
 # Le candele
 
-> ATTENZIONE 
+> ![info|20](https://icons.iconarchive.com/icons/danrabbit/elementary/72/Button-info-icon.png) ATTENZIONE 
 >Aggiungerò vocaboli in inglese, per rendere comuni termici tecnici. Non serve sapere l'inglese, ma vi faranno comodo saperli in futuro.
 
-> ![info|20](https://icons.iconarchive.com/icons/danrabbit/elementary/72/Button-info-icon.png) Teoria
-> Le candele sono una rappresentazione grafica della variazione del prezzo nel frangente di tempo considerato.
+Le candele sono una rappresentazione grafica della variazione del prezzo nel frangente di tempo considerato.
 
-# Frangente di tempo - TF
-Il frangente di tempo considerato?
-Si, perche la candela puo assumere i seguenti valori temporali: 
-- 1, 3, 5, 15, 30 min 
-- 1, 2, 4, 6, 8, 12 ore (Hour)
-- 1 giorno (Day)
-- 1 settimana (Week)
-- 1 mese (Month)
-- 
-In inglese, frangente di tempo = timeframe, 
-accorciato poi come TF.
-
-In gergo, si parla per esempio di TF1, per dire che sto guardando il grafico con candele da 1 minuto, 
-alla stessa maniera TF5 o TF1D saranno candele rispettivamente di 5minuti o 1giorno 
-
-Ragionando per esempi, in sostanza una candela vale 5 minuti.
-E quindi ogni 5 minuti, nasce una nuova candela, nel grafico.
-
-## Com'è composta?
+## Com'è composta una candela?
 Qualsiasi candela ha 4 valori fondamentali:
 
 ITA | ENG | Abbreviato
@@ -40,6 +21,8 @@ Chiusura | Close | C
 
 Non so che tipo di Yankee candle avete immaginato fin'ora, 
 ma con un quadrato e due linee si costruisce una candela, come nell'immagine che viene, che descrive quindi i valori appena descritti.
+
+![[Pasted image 20230213161845.png]]
 
 In questa immagine, abbiamo due candele, 
 La candela nera, perche è nera? 
@@ -68,5 +51,24 @@ Dipende se l'apertura è minore o maggiore rispetto alla chiusura:
 > - massimo 
 > - minimo
 > - durata in minuti/ore/giorni
+
+
+# Frangente di tempo - TF
+Il frangente di tempo considerato?
+Si, perche la candela puo assumere i seguenti valori temporali: 
+- 1, 3, 5, 15, 30 min 
+- 1, 2, 4, 6, 8, 12 ore (Hour)
+- 1 giorno (Day)
+- 1 settimana (Week)
+- 1 mese (Month)
+- 
+In inglese, frangente di tempo = timeframe, 
+accorciato poi come TF.
+
+In gergo, si parla per esempio di TF1, per dire che sto guardando il grafico con candele da 1 minuto, 
+alla stessa maniera TF5 o TF1D saranno candele rispettivamente di 5minuti o 1giorno 
+
+Ragionando per esempi, in sostanza una candela vale 5 minuti.
+E quindi ogni 5 minuti, nasce una nuova candela, nel grafico.
 
 Vediamo come cazz di vedono le candele in un [[3 - Grafico]]

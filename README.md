@@ -1,10 +1,9 @@
 # Knowledge Base Repository 
 
-Web: kb.cyber.pz.it
+Web: [kb.cyber.pz.it](kb.cyber.pz.it)
 
 This repo is a markdown based mini guides tuts and notes of all things i learn and go through.
-Memory is short and drugs make it worse.
 
-Download on [Github](https://github.com/cyberpz/knowledge-base).
+> [!info] Memory is short and drugs make it worse.
 
-
+Download full markdown repo on [Github](https://github.com/cyberpz/knowledge-base).

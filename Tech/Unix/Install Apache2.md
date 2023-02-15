@@ -31,7 +31,7 @@ append this:
 "<FilesMatch \.php$> SetHandler application/x-httpd-php </FilesMatch>"
 ```
 
-go run:
+Restart apache:
 ```sh
 systemctl restart apache2
 ```
