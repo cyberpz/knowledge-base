@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Database/Oracle/Check Version.md",
+                "file": "Tech/SterlingB2BIntegrator/Great Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8534fcc79f8c125c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/SterlingB2BIntegrator/Database Maintenance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Database/Oracle/Check Version.md",
+                "file": "Tech/SterlingB2BIntegrator/Database Maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Database/Oracle/Check Version.md",
+                "file": "Tech/SterlingB2BIntegrator/Database Maintenance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Database/Oracle/Check Version.md"
+                "file": "Tech/SterlingB2BIntegrator/Database Maintenance.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abbe62be5bdde8fa",
+  "active": "8534fcc79f8c125c",
   "lastOpenFiles": [
+    "Tech/SterlingB2BIntegrator/Great Resources.md",
+    "Tech/SterlingB2BIntegrator/Schedules and timing.md",
+    "Tech/Database/Oracle/Check Version.md",
     "drugs/Drugs experiences.md",
     "Tech/Unix/Untitled.md",
     "Tech/Unix/Add User - Debian.md",
     "Tech/Unix/INDEX.md",
     "Scalping/2 - Candele.md",
     "Scalping/1 - Introduzione al Trading.md",
-    "Tech/Unix/Install Apache2.md",
-    "Tech/Unix/Install-Host Website.md",
-    "Tech/Unix/Install Cerbot.md",
-    "Tech/SterlingB2BIntegrator/Great Resources.md"
+    "Tech/Unix/Install Apache2.md"
   ]
 }
