@@ -1,0 +1,16 @@
+Lista esaustiva delle strategie di bull:
+- BUD
+- Terzo Tocco
+- Tre Cime
+- Shimano
+- Bomba
+- Anti-incrocio
+- Daily
+- Cambio colore
+- Pesca
+- Bomba
+- Muro
+- Saldi
+- Cavallino
+- Pullman Cinesi
+- [more]...

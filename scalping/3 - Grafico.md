@@ -1,3 +1,0 @@
-# Grafico
-
->Provo questa versione

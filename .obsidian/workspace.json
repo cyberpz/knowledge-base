@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scalping/TG-Crypto/Diretta 01-03-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6da6089602c042a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Unix/Run script as daemon-background.md",
+                "file": "Scalping/Testing-Guida/0 - Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Unix/Run script as daemon-background.md",
+                "file": "Scalping/Testing-Guida/0 - Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Unix/Run script as daemon-background.md",
+                "file": "Scalping/Testing-Guida/0 - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Unix/Run script as daemon-background.md"
+                "file": "Scalping/Testing-Guida/0 - Index.md"
               }
             }
           }
@@ -173,10 +161,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6da6089602c042a",
+  "active": "b042779fbcabb66a",
   "lastOpenFiles": [
-    "Scalping/TG-Crypto/Diretta 01-03-23.md",
+    "Scalping/Testing-Guida/1 - Introduzione al Trading.md",
+    "Scalping/Testing-Guida",
+    "Scalping/Strategie ScalpingTheBull.md",
+    "Scalping/Regole.md",
+    "Scalping/Testing-Guida/2 - Candele.md",
+    "Scalping/Testing-Guida/0 - Index.md",
     "Tech/Unix/Run script as daemon-background.md",
+    "Scalping/TG-Crypto/Diretta 01-03-23.md",
     "Scalping/TG-Crypto/Diretta 22-02-23.md",
     "drugs/Drugs experiences.md",
     "Tech/Flipper0/Tech Specs.md",
