@@ -1,1 +1,11 @@
-{}
+{
+  "editor:toggle-bullet-list": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
+}
