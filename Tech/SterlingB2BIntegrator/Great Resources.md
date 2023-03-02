@@ -23,4 +23,4 @@
 #### PDFs
 - [Adapter Limitation Policy](https://public.dhe.ibm.com/software/commerce/doc/sb2bi/si51/SI51_AdapterPolicies.pdf)
 - [SFTP non-extractable file img](https://www.ibm.com/support/pages/system/files/inline-images/SterlingB2B_sftp_error_notextractable2.jpg)
-- 
+- [Map Editor Guide](https://public.dhe.ibm.com/software/commerce/doc/sb2bi/si51/stds70/Stds70_MapEditor.pdf)
