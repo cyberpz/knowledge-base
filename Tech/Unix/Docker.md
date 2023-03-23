@@ -1,3 +1,10 @@
+# Install 
+https://docs.docker.com/engine/install/debian/
+🤍
+
+
+# Remove
+
 jesus christ, i've been struggling with removin docker from debian.
 Here's few commands to purge it from debian.
 

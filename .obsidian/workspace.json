@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "09dd63e6fd6df374",
+        "id": "5430d0241c2d64fb",
         "type": "tabs",
         "children": [
           {
-            "id": "c09f2a4f0a6c5bed",
+            "id": "fbc17b39b418afe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scalping/TG-Crypto/Diretta 22-02-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c845834e624af65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scalping/TG-Crypto/Diretta 08-03-23.md",
+                "file": "Scalping/Manuale/Tipi di ordine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.5
   },
   "right": {
     "id": "2a4b6b6e5c29d1ed",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scalping/TG-Crypto/Diretta 08-03-23.md",
+                "file": "Scalping/Manuale/Tipi di ordine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scalping/TG-Crypto/Diretta 08-03-23.md",
+                "file": "Scalping/Manuale/Tipi di ordine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scalping/TG-Crypto/Diretta 08-03-23.md"
+                "file": "Scalping/Manuale/Tipi di ordine.md"
               }
             }
           },
@@ -169,28 +156,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c845834e624af65d",
+  "active": "fbc17b39b418afe5",
   "lastOpenFiles": [
+    "Scalping/Testing-Guida/Tipi di ordine.md",
+    "Scalping/Manuale/Tipi di ordine.md",
+    "Scalping/Manuale/Candele.md",
+    "Scalping/Manuale/0 - Index.md",
+    "Scalping/Manuale",
+    "Scalping/Testing-Guida/Candele.md",
+    "Scalping/Testing-Guida/5 - Supporti e Resistenze.md",
+    "Scalping/Testing-Guida/4 - Medie Mobili.md",
+    "Scalping/Testing-Guida/4G - Quiz.md",
+    "Scalping/Testing-Guida/3 - Grafico.md",
+    "Scalping/Testing-Guida/1 - Introduzione al Trading.md",
+    "Tech/Unix/Docker.md",
+    "Scalping/TG-Crypto/Diretta 22-03-23.md",
+    "Scalping/TG-Crypto/Diretta 15-03-23.md",
     "Scalping/TG-Crypto/Diretta 22-02-23.md",
+    "Tech/Unix/Untitled.md",
     "Scalping/TG-Crypto/Diretta 08-03-23.md",
     "Scalping/TG-Crypto/Templates.md",
     "Scalping/Testing-Guida/0 - Index.md",
-    "Scalping/Testing-Guida/1 - Introduzione al Trading.md",
     "Scalping/Testing-Guida",
     "Scalping/Strategie ScalpingTheBull.md",
     "Scalping/Regole.md",
-    "Scalping/Testing-Guida/2 - Candele.md",
     "Tech/Unix/Run script as daemon-background.md",
     "Scalping/TG-Crypto/Diretta 01-03-23.md",
     "drugs/Drugs experiences.md",
     "Tech/Flipper0/Tech Specs.md",
     "Tech/Flipper0/Infrared.md",
-    "Tech/Flipper0/BadUSB.md",
-    "Tech/SterlingB2BIntegrator/Untitled.md",
-    "Tech/SterlingB2BIntegrator/Schedules and timing.md",
-    "Tech/SterlingB2BIntegrator/Sabato.md",
-    "Tech/SterlingB2BIntegrator/Great Resources.md",
-    "Tech/SterlingB2BIntegrator/Database Maintenance.md",
-    "Tech/Database/Oracle/Check Version.md"
+    "Tech/Flipper0/BadUSB.md"
   ]
 }
